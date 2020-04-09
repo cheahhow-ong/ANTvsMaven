@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea0239cd-f4e6-4f55-9304-544616a6c634" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aCnBLen0s8yD1jiKahsq2JcWFj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cheah.how.ong\ANT-demo\sqlitejdbc" />
+      <recent name="C:\Users\cheah.how.ong\ANT-demo\sqlitejdbc\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cheah.how.ong\ANT-demo\sqlitejdbc\lib" />
+      <recent name="C:\Users\cheah.how.ong\ANT-demo\sqlitejdbc" />
+      <recent name="C:\Users\cheah.how.ong\ANT-demo\sqlitejdbc\build\classes" />
+      <recent name="C:\Users\cheah.how.ong\ANT-demo\sqlitejdbc\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea0239cd-f4e6-4f55-9304-544616a6c634" name="Default Changelist" comment="" />
+      <created>1586248307195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586248307195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586249536032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586249536032" />
+    <state x="620" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586248348502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586248348502" />
+    <state x="549" y="130" key="FileChooserDialogImpl" timestamp="1586412455548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="130" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586412455548" />
+    <state x="439" y="111" key="NewModule_or_Project.wizard" timestamp="1586409811655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="111" key="NewModule_or_Project.wizard/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586409811655" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586412440399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1586412440399" />
+  </component>
+</project>
